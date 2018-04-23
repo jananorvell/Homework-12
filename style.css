@@ -1,0 +1,39 @@
+.container-fluid {
+    background: rgb(31, 13, 65);
+    outline: .1px double black;
+    padding: 5%;
+    color: rgb(255,255,255);
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.jumbotron {
+    background-image: url("ufo.gif");
+    background-color: rgba(1, 1, 1, 0.0);
+    background-size: 30%;
+    background-repeat:no-repeat;
+    display: compact;
+    color: rgb(255,255,255);
+}
+
+h2 {
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    color: rgb(255, 253, 217);
+}
+
+h1 {
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    color: rgb(255, 253, 217);
+}
+
+p {
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    color: rgb(255, 253, 217);
+}
+
+.span6 {
+  float: none;
+  margin: 0 auto;
+}
